@@ -93,7 +93,7 @@ https://github.com/THUDM/GraphMAE
 
 https://github.com/MCG-NJU/VideoMAE
 
-# Citation
+## Citation
 
 ```
 @inproceedings{zhang2025masked,
